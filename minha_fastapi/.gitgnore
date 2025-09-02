@@ -1,0 +1,9 @@
+"Introdu\303\247\303\243o ao FastAPI _ Gamma.pdf"
+        __pycache__/
+        minha_fastapi/__pycache__/
+        minha_fastapi/database.py
+        minha_fastapi/main.py
+        minha_fastapi/models.py
+        minha_fastapi/schemas.py
+        minhafastapi/
+        outros/
